@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Biscalchin 👋
 
-- 🌱 Estudando Kotlin e JavaScript
+- 🌱 Estudando TypeScript.
 - 📫 Contate-me no email: representacoesgap@gmail.com
 
  <div>
